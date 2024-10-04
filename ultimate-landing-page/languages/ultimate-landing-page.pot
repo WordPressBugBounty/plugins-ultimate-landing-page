@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ultimate-landing-page 1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ultimate-landing-page\n"
+"POT-Creation-Date: 2017-11-01 06:25:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/admin-dashboard.php:25
+msgid "Landing Page Dashboard"
+msgstr ""
+
+#: admin/admin-dashboard.php:29
+msgid "Welcome"
+msgstr ""
+
+#: admin/admin-dashboard.php:30
+msgid "Other Free Plugins"
+msgstr ""
+
+#: admin/admin-dashboard.php:31
+msgid "Update Log"
+msgstr ""
+
+#: admin/admin-dashboard.php:36
+msgid "Getting Started - Create Your First Landing Page"
+msgstr ""
+
+#: admin/admin-dashboard.php:38
+msgid "Landing Page - Add New Form"
+msgstr ""
+
+#: admin/admin-dashboard.php:39
+msgid ""
+"Ready to start creating Landing Pages ? Jump into the Landing Page by "
+"clicking the Add new button under the Landing Pages menu."
+msgstr ""
+
+#: admin/admin-dashboard.php:47
+msgid "Page not found error - Fix"
+msgstr ""
+
+#: admin/admin-dashboard.php:48
+msgid "How to fix page not found error."
+msgstr ""
+
+#: admin/admin-dashboard.php:55 admin/admin-dashboard.php:61
+#: admin/admin-dashboard.php:67 admin/admin-dashboard.php:73
+msgid "Install Free"
+msgstr ""
+
+#: lpp_basic_settings.php:318
+msgid "Font Family For Headings"
+msgstr ""
+
+#: lpp_basic_settings.php:327
+msgid "Font Family For Paragraphs"
+msgstr ""
+
+#: lpp_basic_settings.php:335
+msgid "Font Family For Input Fields"
+msgstr ""
+
+#: lpp_cs_post_type.php:12 lpp_cs_post_type.php:13 lpp_cs_post_type.php:24
+msgid "Landing Page"
+msgstr ""
+
+#: lpp_cs_post_type.php:14
+msgid "Add New"
+msgstr ""
+
+#: lpp_cs_post_type.php:15
+msgid "Add new Landing Page"
+msgstr ""
+
+#: lpp_cs_post_type.php:16
+msgid "Edit Landing Page"
+msgstr ""
+
+#: lpp_cs_post_type.php:17
+msgid "New Landing Page"
+msgstr ""
+
+#: lpp_cs_post_type.php:18
+msgid "All Landing Pages"
+msgstr ""
+
+#: lpp_cs_post_type.php:19
+msgid "View Landing Page"
+msgstr ""
+
+#: lpp_cs_post_type.php:20
+msgid "Search Landing Page"
+msgstr ""
+
+#: lpp_cs_post_type.php:21
+msgid "No Landing Page found"
+msgstr ""
+
+#: lpp_cs_post_type.php:22
+msgid "No Landing Page found in trash"
+msgstr ""
+
+#: lpp_cs_post_type.php:29
+msgid "Create Landing Page"
+msgstr ""
+
+#: ultimate-landing-page.php:25
+msgid "Dashboard"
+msgstr ""
+
+#: ultimate-landing-page.php:26
+msgid "Support"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Landing Page"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://web-settler.com/ultimate-landing-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create Beautiful Landing Pages in minutes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Web-Settler"
+msgstr ""

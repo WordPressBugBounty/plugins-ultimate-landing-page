@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Ultimate Landing Page\n"
+"POT-Creation-Date: 2017-11-18 19:08+0500\n"
+"PO-Revision-Date: 2017-11-18 19:09+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ultimate-landing-page.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ur\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin-dashboard.php:25
+msgid "Landing Page Dashboard"
+msgstr "ڈیش بورڈ"
+
+#: admin/admin-dashboard.php:29
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: admin/admin-dashboard.php:30
+msgid "Other Free Plugins"
+msgstr "دیگر مفت پلگ ان"
+
+#: admin/admin-dashboard.php:31
+msgid "Update Log"
+msgstr "لاگ"
+
+#: admin/admin-dashboard.php:36
+msgid "Getting Started - Create Your First Landing Page"
+msgstr "شروع کرنا - اپنا پہلا اسٹائل لینڈنگ پیج بنائیں"
+
+#: admin/admin-dashboard.php:38
+msgid "Landing Page - Add New Form"
+msgstr "لینڈنگ پیج - نیا فارم شامل کریں"
+
+#: admin/admin-dashboard.php:39
+msgid ""
+"Ready to start creating Landing Pages ? Jump into the Landing Page by "
+"clicking the Add new button under the Landing Pages menu."
+msgstr ""
+"لینڈنگ صفحات بنانے کے لئے تیار ہیں؟ لینڈنگ پیج مینو کے تحت نئے بٹن پر "
+"کلک کرکے لینڈنگ پیج میں جائیں."
+
+#: admin/admin-dashboard.php:47
+msgid "Page not found error - Fix"
+msgstr "صفحہ نہیں ملا. غلطی"
+
+#: admin/admin-dashboard.php:48
+msgid "How to fix page not found error."
+msgstr "صفحہ کو کیسے خراب کرنے کی غلطی"
+
+#: admin/admin-dashboard.php:55 admin/admin-dashboard.php:61
+#: admin/admin-dashboard.php:67 admin/admin-dashboard.php:73
+msgid "Install Free"
+msgstr "مفت انسٹال کریں"
+
+#: lpp_basic_settings.php:318
+msgid "Font Family For Headings"
+msgstr "عنوانات کے لئے فونٹ فیملی"
+
+#: lpp_basic_settings.php:327
+msgid "Font Family For Paragraphs"
+msgstr "پیراگراف کے لئے فونٹ  فیملی"
+
+#: lpp_basic_settings.php:335
+msgid "Font Family For Input Fields"
+msgstr "ان پٹ فیلڈز کے لئے فونٹ فیملی"
+
+#: lpp_cs_post_type.php:12 lpp_cs_post_type.php:13 lpp_cs_post_type.php:24
+msgid "Landing Page"
+msgstr "لینڈنگ پیج"
+
+#: lpp_cs_post_type.php:14
+msgid "Add New"
+msgstr "نیا شامل کریں"
+
+#: lpp_cs_post_type.php:15
+msgid "Add new Landing Page"
+msgstr " نیا لینڈنگ پیج شامل کریں"
+
+#: lpp_cs_post_type.php:16
+msgid "Edit Landing Page"
+msgstr "صفحہ میں ترمیم کریں"
+
+#: lpp_cs_post_type.php:17
+msgid "New Landing Page"
+msgstr "نیا لینڈنگ پیج"
+
+#: lpp_cs_post_type.php:18
+msgid "All Landing Pages"
+msgstr "تمام لینڈنگ پیج"
+
+#: lpp_cs_post_type.php:19
+msgid "View Landing Page"
+msgstr "صفحہ دیکھیں"
+
+#: lpp_cs_post_type.php:20
+msgid "Search Landing Page"
+msgstr "تلاش صفحات"
+
+#: lpp_cs_post_type.php:21
+msgid "No Landing Page found"
+msgstr "صفحہ نہیں ملا. "
+
+#: lpp_cs_post_type.php:22
+msgid "No Landing Page found in trash"
+msgstr "ٹریش میں کوئی صفحات نہیں ملے"
+
+#: lpp_cs_post_type.php:29
+msgid "Create Landing Page"
+msgstr "نیا لینڈنگ پیج"
+
+#: ultimate-landing-page.php:25
+msgid "Dashboard"
+msgstr "ڈیش بورڈ"
+
+#: ultimate-landing-page.php:26
+msgid "Support"
+msgstr "مدد"
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Landing Page"
+msgstr "حتمی لینڈنگ پیج"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://web-settler.com/ultimate-landing-page/"
+msgstr "http://web-settler.com/ultimate-landing-page"
+
+#. Description of the plugin/theme
+msgid "Create Beautiful Landing Pages in minutes"
+msgstr "منٹ میں خوبصورت لینڈنگ صفحات بنائیں"
+
+#. Author of the plugin/theme
+msgid "Web-Settler"
+msgstr "Web-Settler"
